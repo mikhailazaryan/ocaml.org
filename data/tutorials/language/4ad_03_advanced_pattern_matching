@@ -16,6 +16,14 @@ Once we defined the
 
 ## `when` Patterns
 
+Let's assume, we want to implement a function, that returns true if a pair contains the same values, and false otherwise. However,
+the following code fails with an error:
+```ocaml
+# let pair_equal = function
+      | x, x -> true
+      | x, y -> false;;
+Error: Variable x is bound several times in this matching
+```
 ## Exceptions Patterns
 
 <!-- That -->
