@@ -1,1 +1,7 @@
-
+---
+id: advanced-pattern-matching
+title: Advanced Pattern Matching
+description: >
+  Learn about advanced pattern matching techniques in OCaml
+category: "Advanced Topics"
+---
