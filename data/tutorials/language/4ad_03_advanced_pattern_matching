@@ -5,3 +5,15 @@ description: >
   Learn about advanced pattern matching techniques in OCaml
 category: "Advanced Topics"
 ---
+
+## Combined Patterns
+
+## `as` Patterns
+
+## `when` Patterns
+
+## Exceptions Patterns
+
+<!-- That -->
+
+<!-- ## Stacked/Fallback Patterns -->
